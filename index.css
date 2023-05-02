@@ -1,0 +1,31 @@
+/* Write your code here. */
+.bg-container {
+    background-color: #0f172a;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-heading {
+    color: white;
+}
+
+.image-container {}
+
+.image-one {
+    width: 200px;
+    height: 200px;
+
+
+}
+
+.image-two {
+    width: 200px;
+    height: 200px;
+    /* margin-top: 150px;
+    margin-left: 100px; */
+}
